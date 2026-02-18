@@ -1,0 +1,7 @@
+{
+  "name": "Mandi-Insights",
+  "description": "A high-fidelity unified agricultural market intelligence platform for India, covering over 7,000 mandis with real-time prices, AI-driven forecasting, and arbitrage intelligence.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
